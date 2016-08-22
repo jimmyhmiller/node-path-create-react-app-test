@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.0.1",
+  "homepage": "http://jimmyhmiller.github.io/node-path-create-react-app-test",
   "private": true,
   "devDependencies": {
     "react-scripts": "file:///Users/jimmyhmiller/Documents/Code/open-source/create-react-app/react-scripts-0.3.0-alpha.tgz",
